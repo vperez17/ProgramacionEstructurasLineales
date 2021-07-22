@@ -11,5 +11,5 @@
 	Crear lista e implementar funciones para trabajar con datos de alumnos
   ## Examen Intermedio
 	Crear lista e implementar funciones para trabajar con datos de Avila
-  ## Examen Fianl
+  ## Examen Final
 	Crear lista e implementar funciones para trabajar con datos de gasolineras de España
